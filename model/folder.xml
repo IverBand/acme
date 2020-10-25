@@ -1,0 +1,33 @@
+<archimate:ArchimateModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Acme Insurance"
+    id="id-0664d491d7cc43b79076bb4c2cecf37c"
+    version="4.6.0">
+  <properties
+      key="Report:Model:Hide:Business"
+      value="true"/>
+  <properties
+      key="Report:Model:Hide:Application"
+      value="true"/>
+  <properties
+      key="Report:Model:Hide:Technology&amp;Physical"
+      value="true"/>
+  <properties
+      key="Report:Model:Hide:Motivation"
+      value="true"/>
+  <properties
+      key="Report:Model:Hide:Implementation&amp;Migration"
+      value="true"/>
+  <properties
+      key="Report:Model:Hide:Other"
+      value="true"/>
+  <properties
+      key="Report:Model:Hide:Relations"
+      value="true"/>
+  <properties
+      key="Report:Model:Hide:Views"
+      value="false"/>
+  <properties
+      key="Report:Model:Hide:ViewNumbering"
+      value="true"/>
+</archimate:ArchimateModel>
