@@ -1,7 +1,7 @@
 <archimate:RealizationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Resource"
+    name="Realization"
     id="id-97dc6c3096a04b288e3c3eea2d85d51a">
   <source
       xsi:type="archimate:CourseOfAction"

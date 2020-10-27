@@ -1,42 +1,42 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="New ArchiMate View"
+    name="0800 Capability Model"
     id="id-0fcb4a36ef83448c8ab5fc1f8a956e0f">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-e74ea3a1ab5b48cb93dd926f3a5806f1">
     <bounds
         x="408"
-        y="189"
+        y="168"
         width="120"
         height="55"/>
     <archimateElement
-        xsi:type="archimate:Capability"
-        href="Capability_id-0a20aa938caf4954b4f0e4bd7eba3ccc.xml#id-0a20aa938caf4954b4f0e4bd7eba3ccc"/>
+        xsi:type="archimate:Resource"
+        href="Resource_id-73f2c6c35d704a90b5de62030046ba6e.xml#id-73f2c6c35d704a90b5de62030046ba6e"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-38ecd8827b764f6bb66ab6f5903caffb">
     <bounds
-        x="626"
-        y="204"
+        x="612"
+        y="156"
         width="120"
         height="55"/>
     <archimateElement
-        xsi:type="archimate:Capability"
-        href="Capability_id-fdcb73f367eb4c829db155bd1f4c10d7.xml#id-fdcb73f367eb4c829db155bd1f4c10d7"/>
+        xsi:type="archimate:Resource"
+        href="Resource_id-cc7e19e5391e4b3ba5f5ab0494261eb1.xml#id-cc7e19e5391e4b3ba5f5ab0494261eb1"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-23452e0869634fc4a41c4cb4579635c6">
     <bounds
-        x="816"
-        y="204"
+        x="792"
+        y="180"
         width="120"
         height="55"/>
     <archimateElement
-        xsi:type="archimate:Capability"
-        href="Capability_id-18c5a9c27b9f4fce837067d946c74f8d.xml#id-18c5a9c27b9f4fce837067d946c74f8d"/>
+        xsi:type="archimate:Resource"
+        href="Resource_id-87b092f367c84fadb5acc86f2e7e4245.xml#id-87b092f367c84fadb5acc86f2e7e4245"/>
   </children>
 </archimate:ArchimateDiagramModel>
