@@ -239,15 +239,15 @@
     <bounds
         x="720"
         y="216"
-        width="157"
-        height="121"/>
+        width="145"
+        height="133"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-c19a959827fd4b9f8d5bc1b0ccd3115b"
         targetConnections="id-cb8cd111049e46ab992a085e3b06ac46">
       <bounds
-          x="24"
-          y="48"
+          x="12"
+          y="60"
           width="120"
           height="55"/>
       <archimateElement
